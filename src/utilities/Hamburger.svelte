@@ -7,7 +7,7 @@
 
 </script>
 
-<button id="menu-btn" class="block relative ml-[260px] hamburger md:hidden focus:outline-none" class:open={isOpen} on:click={(toggleIsOpen)}>
+<button id="menu-btn" class="block relative ml-[360px] hamburger md:hidden focus:outline-none" class:open={isOpen} on:click={(toggleIsOpen)}>
   <span class="hamburger-top"></span>
   <span class="hamburger-middle"></span>
   <span class="hamburger-bottom"></span>
