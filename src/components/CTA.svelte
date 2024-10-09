@@ -16,14 +16,14 @@
 
 <style>
   #cta {
-    background-image: url('https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/bg-simplify-section-desktop.svg');
+    background-image: url('https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/bg-simplify-section-desktop.svg');
     background-repeat: no-repeat;
     background-position: -10% 100%;
   }
 
   @media (max-width: 576px) {
     #cta {
-    background-image: url('https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/bg-simplify-section-mobile.svg');
+    background-image: url('https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/bg-simplify-section-mobile.svg');
     background-position: 0%;
   }
   }

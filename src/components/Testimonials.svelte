@@ -14,7 +14,7 @@
     <div class="flex flex-col mt-24 md:flex-row md:space-x-6">
       <!-- testimonial 1  -->
        <div class="flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:w-1/3">
-        <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/mainsrc/images/avatar-anisha.png" class="w-16 -mt-14" alt="">
+        <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/mainsrc/images/avatar-anisha.png" class="w-16 -mt-14" alt="">
         <h5 class="text-lg font-bold">Anisha Lee</h5>
         <p class="text-sm text-darkGrayishBlue">
           “Manage has supercharged our team’s workflow. The ability to
@@ -24,7 +24,7 @@
       </div>
       <!-- testimonial 2  -->
        <div class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex md:w-1/3">
-        <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/avatar-ali.png" class="w-16 -mt-14" alt="">
+        <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/avatar-ali.png" class="w-16 -mt-14" alt="">
         <h5 class="text-lg font-bold">Ali Bravo</h5>
         <p class="text-sm text-darkGrayishBlue">
           “We have been able to cancel so many other subscriptions since
@@ -34,7 +34,7 @@
       </div>
       <!-- testimonial 3  -->
        <div class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex md:w-1/3">
-        <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/avatar-richard.png" class="w-16 -mt-14" alt="">
+        <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/avatar-richard.png" class="w-16 -mt-14" alt="">
         <h5 class="text-lg font-bold">Richard Blum</h5>
         <p class="text-sm text-darkGrayishBlue">
           “Manage has supercharged our team’s workflow. The ability to

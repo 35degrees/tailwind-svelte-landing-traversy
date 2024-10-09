@@ -12,29 +12,29 @@
       </div>
       <!-- logo  -->
        <div>
-        <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/logo-white.svg" alt="logo white" class="h-8">
+        <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/logo-white.svg" alt="logo white" class="h-8">
        </div>
        <!-- social links  -->
         <div class="flex justify-center space-x-4">
           <!-- link 1 -->
            <a href="#">
-            <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-facebook.svg" alt="fb">
+            <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-facebook.svg" alt="fb">
            </a>
           <!-- link 2 -->
            <a href="#">
-            <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-youtube.svg" alt="fb">
+            <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-youtube.svg" alt="fb">
            </a>
           <!-- link 3 -->
            <a href="#">
-            <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-pinterest.svg" alt="fb">
+            <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-pinterest.svg" alt="fb">
            </a>
           <!-- link 4 -->
            <a href="#">
-            <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-instagram.svg" alt="fb">
+            <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-instagram.svg" alt="fb">
            </a>
           <!-- link 5 -->
            <a href="#">
-            <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-twitter.svg" alt="fb">
+            <img src="https://raw.githubusercontent.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/icon-twitter.svg" alt="fb">
            </a>
         </div>
      </div>
