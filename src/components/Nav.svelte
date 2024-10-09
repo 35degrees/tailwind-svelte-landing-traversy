@@ -7,7 +7,7 @@
 <nav class="relative container mx-auto p-6">
   <div class="flex items-center justify-between">
     <div class="pt-2">
-      <img src="src/images/logo.svg" alt="logo">
+      <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/logo.svg" alt="logo">
     </div>
     <div class="hidden md:flex space-x-6">
       <a href="#" class="hover:text-darkGrayishBlue">Pricing</a>

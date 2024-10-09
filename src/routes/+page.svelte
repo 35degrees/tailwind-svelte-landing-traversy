@@ -26,7 +26,7 @@
       </div>
     </div>
     <div class="md:w-1/2">
-    <img src="src/images/illustration-intro.svg" alt="image"></div>
+    <img src="https://github.com/35degrees/tailwind-svelte-landing-traversy/blob/main/src/images/illustration-intro.svg" alt="image"></div>
    </div>
 </section>
 
